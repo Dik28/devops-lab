@@ -4,3 +4,4 @@ pipeline trigger test
 one more trigger
 this is final trigger
 fresh trigger
+latest trigger
